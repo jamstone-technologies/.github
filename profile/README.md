@@ -1,6 +1,6 @@
 # Jamstone Technologies | Specialized Integration Lab
 
-![Jamstone Logo](Jamstone%20Logo.jpg)
+![Jamstone Logo](Jamstone%20Logo.png)
 
 ## Specialized Integration Lab
 Jamstone Technologies is a specialized integration lab providing white-labeled technical assets for global asset intelligence. We specialize in the deployment of rugged, long-range tracking hardware and secure IoT infrastructure. By utilizing sovereign Oracle Cloud (OCI) environments, we ensure mission-critical data remains private and protected.
